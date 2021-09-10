@@ -3,6 +3,8 @@ CarDetection ROI Python
 
 Overview to Youtube: https://www.youtube.com/watch?v=r6nNo04JvgA
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/r6nNo04JvgA/0.jpg)](https://www.youtube.com/watch?v=r6nNo04JvgA)
+
 -------------------- reference --------------------
 
 Car Detection  https://www.geeksforgeeks.org/opencv-python-program-vehicle-detection-video-frame/
